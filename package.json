@@ -1,7 +1,7 @@
 {
   "name": "fifthmap",
   "version": "0.1.0",
-  "homepage": "https://seruy50.github.io/fourthMap",
+  "homepage": "https://seruy50.github.io/fifthmap",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
